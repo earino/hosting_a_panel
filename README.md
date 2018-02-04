@@ -87,6 +87,47 @@ Or for example:
 * 'Updates in GCC 7.3' is too narrow a theme, that is likely better done as a focused presentation
 * 'Advancements and the Future of Compilers' is still quite narrow, but it will allow for some subjective discussion
 
-Those are just two arbitrary examples, and I will add more as I have more time. But the idea is that you want it to be narrow
+Those are just two arbitrary examples, and I will add more as I have more time. You want to make sure that it's not a topic
+that has already been thoroughly explored. But the core idea is that you want it to be narrow
 enough that experts can say deep things, you want it to have some subjectivity so that the conversation can include your 
 panelists specific and unique opinion, and most of all you want it to sound interesting.
+
+### Picking a Date and Finding a Venue
+
+My only note here is that you should be picking a date at least 2-3 months out. It is not acceptable to spring a panel request
+on someone a week or two in advance unless there's an extenuating circumstance (such as another panelist dropped out.) Since
+your panelists are likely experts, they're probably busy. Be respectful of their scheduling and time, and give them plenty
+of opportunity to work your panel into their schedule, not just logistically, but intellectually. Your panelists will likely
+want to have time to think about the topic and make sure they can say something compelling. They became experts through hard
+work and passion, give them time to leverage that hard work and passion towards your panel as well.
+
+### Creating the Candidate List of Panelists
+
+This is very important not to screw up. Your panel should have:
+
+1. Experts
+2. Diversity
+
+Experts is pretty self explanitory. They should be able to contribute some non-trivial insight to the overall discussion. 
+But that's not the part where moderators and organizers screw up. They screw up on diversity.
+
+So, by diversity I explicitly mean your panel *must* have:
+
+1. Women
+2. People of color
+3. People of different ages
+4. People from different ethnicities
+5. People with different experiences
+
+Yes. This likely makes it that your immediately social network is not the right place to draw the panelists. Even the most 
+well meaning diversity minded individual likely has a high degree of [Homophily](https://en.wikipedia.org/wiki/Homophily). 
+This isn't a guide to making more diverse friends, but it's something we should all be doing.
+
+The moderator is likely going to have to reach outside of their immediate group and leverage existing resources to find 
+experts who are different from them. This is absolutely a required part of your work as a panelist. Fortunately, there are
+a lot of amazing resources for this. Ask around, find lists online, reach out to organizers in the community. I believe that 
+if you make a heartfelt effort to find diverse panelists, and make it known to the world that you're seeking help in finding
+an amazing diverse panel, that the world will point you to the appropriate resources. There's [Forbes](https://www.forbes.com/sites/mariyayao/2017/05/18/meet-20-incredible-women-advancing-a-i-research/#d6615a626f9c) articles
+or [lists](https://www.analyticsvidhya.com/blog/2017/03/celebrating-womens-day-33-women-in-data-science-from-around-the-world-av-community/). If you need specific help, reach out to me directly and I will help you.
+
+
