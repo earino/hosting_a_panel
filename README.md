@@ -1,4 +1,4 @@
-# hosting_a_panel
+# Eduardo Ariño de la Rubia's Guide to Hosting a Panel
 
 ## What is a Panel
 
@@ -71,3 +71,22 @@ topic is big and interesting enough that it is unlikely to receive the best trea
 
 ### Coming up with the overall theme of the panel
 
+Your theme should be broad enough to allow for multiple perspectives and points of view, but not so broad as to be useless.
+A very narrow theme can be constraining and leave the panelists mostly repeating each other's points, or discussing fine
+but not meaningful differences in position. On the contrary, a very broad theme an lead to a meandering discussion without a 
+central thesis. The theme should be interesting, have an element of controversy, and be relevant and actionable to the 
+audience.
+
+For example:
+
+* 'Women in Technology' is too broad a theme, that will likely lead to generalized statements and plattitudes
+* 'Recruiting and Retaining Women in Software Startups' is probably narrow enough to be interesting, but still allow interesting conversation
+
+Or for example:
+
+* 'Updates in GCC 7.3' is too narrow a theme, that is likely better done as a focused presentation
+* 'Advancements and the Future of Compilers' is still quite narrow, but it will allow for some subjective discussion
+
+Those are just two arbitrary examples, and I will add more as I have more time. But the idea is that you want it to be narrow
+enough that experts can say deep things, you want it to have some subjectivity so that the conversation can include your 
+panelists specific and unique opinion, and most of all you want it to sound interesting.
