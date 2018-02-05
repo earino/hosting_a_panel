@@ -141,11 +141,11 @@ Decide how many panelists you want to have, 4 is a good number. I try to make a 
 of the panel that I want to host. Create a google sheets spreadsheet and write them all down. I use a sheet with the following
 format.
 
-| name | email | linkedin | reached out | confirmed | first call | sent followup | sent logistics | sent thanks |
-|------|-------|----------|-------------|-----------|------------|---------------|----------------|-------------|
-| mike | m@m.c | /mikec   |     Y       |    N      |            |               |                |             |
-| jan  | j@j.c | /janftw  |     Y       |    Y      |  <invite URL>         |               |                |             |
-| bill | b@b.co | /billg  |     Y       |    Y      |   <invite URL      |               |                |             |
+| name | email | linkedin | reached out | confirmed | first call | sent followup | sent logistics | sent thanks | notes |
+|------|-------|----------|-------------|-----------|------------|---------------|----------------|-------------|-------|
+| mike | m@m.c | /mikec   |     Y       |    N      |            |               |                |             |       |
+| jan  | j@j.c | /janftw  |     Y       |    Y      |  <invite URL>         |               |                |     |  |
+| bill | b@b.co | /billg  |     Y       |    Y      |   <invite URL      |               |                |         |  |
 
 Where I keep track of my reachout. This is basically a spreadsheet as a purpose built CRM. In it, the columns I track are:
 
@@ -158,6 +158,7 @@ Where I keep track of my reachout. This is basically a spreadsheet as a purpose 
 7. Whether I sent them a followup
 8. Whether I sent them logistics information 
 9. Whether I sent them thanks
+10. Notes about the panelist
 
 ### Reaching Out to the Panelists and Gauging Their Interest
 
@@ -181,7 +182,12 @@ A lot of people don't know if they really belong on a panel, and can feel a bit 
 it's their first time being asked to be on a panel.) Reassuring them that you are familiar with their work and referencing a 
 specific thing they did can make them feel much more at ease.
 
-Email it, and wait. You are asking someone to make and modify their plans at least a few months in advance. I would suggest
+Email it, set "reached out" to YES and wait. You are asking someone to make and modify their plans at least a few months in
+advance. 
+
+### Getting Confirmation from your panelists
+
+I would suggest
 waiting at least 7 days before sending a followup. As a rule you will get a distribution of response times, some people will
 respond immediately, some will take a very long time. You really only need two more email templates from hereon out. You 
 need the email you send out to nudge people who did not respond. Forward your original email to them and say:
@@ -210,3 +216,23 @@ Mark them as confirmed on your spreadsheet and wait for the roster to fill up. I
 panelist short, and no one on standby, I usually suggest asking your panelists if they have anyone they would be willing to
 nominate. In my experience, panelists often know each other from other panels, and can help fill in any gaps. Once a panelist
 has agreed to be on your panel, they want it to be the very best panel it can be too.
+
+### Researching Your Panelists 
+
+You to find out what they're most qualified to speak to specifically. Look at their LinkedIn page, look at their github page,
+but not just their projects, see if they contributed to any other projects or filed issues. Look at their social media and
+at previous talks they may have given. Search for them in Google scholar... basically be exhaustive. Look at their background
+speficically through the lens of the theme of the panel. The goals in researching your panelists are:
+
+1. Find out what these panelists are experts in
+2. Figure out where they have commonality and differences
+3. Extracting broader themes that they all share that can shape your panel
+
+You want to synthesize what you learn about all of your panelists. Things like "all of you have nonprofit experience" or
+"only some of you have a PhD". Basically broad things that you can end up working into the set of candidate questions that
+you will end up using in the panel. Write these notes on the spreadsheet.
+
+### Creating a Panel Goal and Topic Statement
+
+In a google doc, write down the goal statement for your panel. A goal is the "desired end state of the world."
+
