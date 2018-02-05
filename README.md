@@ -250,3 +250,21 @@ Create a google doc with these 10 to 15 questions. Format it nicely, wordsmith t
 
 #### Having a Pre-Call with Your Panelists (either individually or as a conference call)
 
+It is critical to have a pre-call with your panelists. The goal of this call is to surface to them the candidate list of questions, get initial feedback from them on how they would like to shape the conversation, and to verify that the panelists are reasonable human beings who are going to be a compelling panel. It very rarely happens, but you may have a pre-call and find out that someone has been focused on something really differently, or that perhaps they just don't have any chemistry either with the moderator or any of the other panelists. In those rare circumstnaces where it's clear that the panelist is not a good match, the most humane thing to do is to have an honest conversation and figure out if it's fixable. No one wants to be on a panel where they're going to be uncomfortable.
+
+##### Scheduling the Call
+
+Email your panelists a calendar scheduling tool with a number of candidate times to have calls. I suggest using [doodle](http://doodle.com). This will allow people to give you an assortment of times where they can join a call. You want to have a good mix of times after and before work, as well as times on the weekend. It's very unlikely that you will be able to find a time where everyone can contribute. I suggest sending the link to doodle with a short email like this:
+
+> Hello $panelist!
+> 
+> I wanted to set up a quick 30 minute call to get panelists together on the phone, go over
+> some of the questions, and get everyones buy in on the direction of the panel. Click 
+> [here](http://doodle.com) to schedule on doodle! Thanks!
+
+Once everyone has responded to the doodle, try to find a time where everyone can join the
+call at once. If it doesn't exist, then it's perfectly fine to schedule as many calls as it takes, but you really want to try to get as many panelists on the phone at the same time. That will give you the best feeling as to how the panel itself will run. Send everyone appropriate
+calendar invites, and add links to the events in the spreadsheet.
+
+##### Having the Call
+
