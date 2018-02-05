@@ -32,7 +32,7 @@ following sections. The rough outline (from the point of view of the organizer a
    11. Sharing your list of candidate questions so they can be prepared
    12. Verifying that your panelists will be able to attend the panel
 2. At the event
-   1. On the day of the panel, meeting before the panel to check that everyone feels comfortable with their participation
+   1. Meeting before the panel to check that everyone feels comfortable with their participation
    14. Making sure the panelists have comfortable appropriate places to sit on stage
    15. Making water available to your panelists during the panel
    16. Introducing your panelists and actually hosting and moderating the panel
@@ -120,6 +120,7 @@ So, by diversity I explicitly mean your panel *must* have:
 3. People of different ages
 4. People from different ethnicities
 5. People with different experiences
+6. People who are differently abled
 
 Yes. This likely makes it that your immediately social network is not the right place to draw the panelists. Even the most 
 well meaning diversity minded individual likely has a high degree of [Homophily](https://en.wikipedia.org/wiki/Homophily). 
@@ -288,7 +289,7 @@ After you have had your calls with your panelists, it's time to send them a foll
 
 Mark that you followed up on your spreadsheet
 
-### Verifying that your panelists will be able to attend the panel
+### Verifying That Your Panelists Will Be Able to Attend the Panel
 
 A week or two before the panel is officially scheduled, send out one last email to your panelists verifying that they are still able to attend. This email should contain logistical information such as:
 
@@ -299,3 +300,65 @@ A week or two before the panel is officially scheduled, send out one last email 
 5. Your phone number and how to reach you
 
 Sending a really good version of this email can make your panel feel very professional, and it will make your panelists cared about. They are experts, and receiving a thoughtful email with all the logistics questions they may have pre-answered will put them at ease that they're in good hands.
+
+Mark that you sent the logistic information in the spreadsheet.
+
+## At the Event
+
+The day of the event can be really fun or really stressful for you and your panelists. It is your responsibility as the host and the moderator to make sure your panelists are taken care of, and at their best for your panel. At this point you should have a list of your questions nicely printed out in a note, and a pen to take notes during the panel.
+
+### Meeting Before the Panel 
+
+You want to meet with your panelists, either as a group or as one on one, to check that everyone feels comfortable with their participation. You want to take a moment with each one of your panelists and connect with them. Remind them how exciting the conference has been, ask them their favorite thing they've seen so far, and help them realize they're part of something fun and special. This meeting should be relatively informal, it's just a quick touch base. You do want to make sure that the panelists look fine. This is your chance to make sure that they're in a good shape to be on the panel. Sometimes you may have to make a last minute decision and ask someone to sit out a panel if they're sick, or if they had a little too much to drink. It's very very rare, but understand that as the moderator your responsibility is to the panel as a whole and to the audience, and sometimes this requires making a hard choice.
+
+### Making Sure the Panelists Have Comfortable Appropriate Places to Sit on Stage
+
+Not everyone is the same size and shape. Some people are differently abled and have to use mobility devices. Think about this before the panel starts, preferably on the day of the panel, but before the conference starts in case the podium needs to be modified or one of your panelists needs to take a different route in order to use an accessible entrance.
+
+Make sure that everyone will have access to somewhere to sit where they will look their best and be comfortable. Not everyone can sit on a really tall stool or a little squat chair. Take stock of your panelists now that you have seen them, and ask yourself if you have any hesitation that one of them won't be comfortable in seating. 
+
+### Making Water Available to Your Panelists During the Panel
+
+Whether it's little bottles of water, or glasses and a pitcher, panelists should have water available. It's hot under all those lights, and if they're speaking they may get a little hoarse. This may mean that you need to have little tables, or that simply people can keep a bottle of water by their feet. It doesn't need to be fancy, but your panelists must be able to keep themselves hydrated through your panel.
+
+### Introducing your Panelists and Actually Hosting and Moderating the Panel
+
+Once on stage, take the mic and and introduce yourself to the audience. Tell them in 15-30 seconds what the name of the panel is, and what you hope to accomplish. One by one, introduce your panelists. These introductions should be short but meaningful, convey why people want to pay attention to these folks. Then look in your notes, pick your first question, and moderate the panel.
+
+I won't be too prescriptive as to what moderating a panel actually means (which, considering how nitpicky I was about everything else, may come as a surprise to you), but I believe every moderator has to come up with their own style. Your job as a moderator is to keep the conversation going. Make sure that everyone is getting a chance to answer, really listen to what your panelists are saying, and always make sure that you're asking the next most interesting question based on what your panelists are sying to each other. The order of your questions is much less important than the content, and matching it to what's happening in your panel in the moment. In special circumstances, an emergent question will become obvious to you and you will want to ad-lib and ask it. It's an advanced move, but if you come up with a brilliant question on the spot, go for it. Note that your panelists have never heard this question so it may surprise them, but that can make for an amazing opportunity.
+
+Basically, do everything in your power to make the conversation as wonderful as possible, and work hard to steer it so address that goal you set out to solve so many months ago.
+
+Keep your eyes on the timekeeper and manage the clock well. You don't want to go over time, and you don't want to end prematurely. 
+
+
+### Moderating the Q&A After the Panel (if you chose to have one.)
+
+Not all panels have a Q&A afterwards. Maybe your venue isn't set up to take questions to the audience or you just don't feel the topic is right for a Q&A format. However, if you are going to run a Q&A, this is the little speech I want you to give before you open up the questions:
+
+> We are now in the Q&A session. Questions are a short phrase that attempts to clarify 
+> something. This is not your time to prove how smart you are or tell a long meandering tale.
+> If I can tell you're not getting to a question soon, I will interrupt you and ask you to
+> clarify. I don't want to discourage you from asking questions, I think your questions 
+> will be a great part of this panel. So, now that the groundrules have been set, let's ask
+> some questions!
+
+It doesn't have to be word-for-word this speech, but you have to set the groundrules. An amazing panel can totally be turned sour if the audience Q&A is not moderated properly. Every time that someone asks a question, repeat it over the loudspeaker. It's important that everyone hears the question. Keep your eyes on the timekeeper and manage the clock well. Once you're in the last few minutes, tell the audience that you will take 2 more questions. Before you take the last question, tell the audience: "this is the last question."
+
+### Thanking your Panelists
+
+As you are wrapping things you, give your panelists an opportunity to say one last thought, and thank them for their time. Tell the audience to thank the panelists and applaud. Congratulations, you just ran a panel.
+
+## After the Event
+
+### Get Feedback
+
+Reaching out to your panelists a few days later for feedback as to how the panel could have been better is a really useful thing. Once they've had a few days to think, they may be able to give you really great candid feedback about how the experience could have been better. The biggest predictor of running a panel is having run a previous panel. So now that you're probably going to run a second panel, it's time to get really great at it.
+
+### Feeling Great 
+
+Wow! You moderated a well run panel which was really valuable to the audience as well as the panelists. This is a really cool contribution, good job :) You should feel pretty great about it and your twitter is probably blowing up. Not everyone has the courage to step up and do the hard work that it takes to put together a great panel, and you did. Awesome.
+
+### Getting Bitten by the Bug and Planning Your Next Panel
+
+It happens to the best of us. See you at the next meeting of moderators anonymous :)
