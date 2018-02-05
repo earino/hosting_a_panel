@@ -137,15 +137,13 @@ directly and I will help you.
 
 #### Building Your List
 
-Decide how many panelists you want to have, 4 is a good number. I try to make a candidate list that's at least 2x the size
-of the panel that I want to host. Create a google sheets spreadsheet and write them all down. I use a sheet with the following
-format.
+Decide how many panelists you want to have, 4 is a good number. I try to make a candidate list that's at least 2x the size of the panel that I want to host. Create a google sheets spreadsheet and write them all down. I use a sheet with the following format.
 
 | name | email | linkedin | reached out | confirmed | first call | sent followup | sent logistics | sent thanks | notes |
 |------|-------|----------|-------------|-----------|------------|---------------|----------------|-------------|-------|
-| mike | m@m.c | /mikec   |     Y       |    N      |            |               |                |             |       |
-| jan  | j@j.c | /janftw  |     Y       |    Y      |  <invite URL>         |               |                |     |  |
-| bill | b@b.co | /billg  |     Y       |    Y      |   <invite URL      |               |                |         |  |
+| mike | m@m.c | /mikec   |     Y       |    N      | | | |             |       |
+| jan  | j@j.c | /janftw  |     Y       |    Y      |  <invite URL>  |      |   |     |  |
+| bill | b@b.co | /billg  |     Y       |    Y      |   <invite URL>      | | |         |  |
 
 Where I keep track of my reachout. This is basically a spreadsheet as a purpose built CRM. In it, the columns I track are:
 
@@ -167,12 +165,16 @@ the following template.
 
 > Hello $panelist!
 >
-> This is Eduardo Ariño de la Rubia, I heard about you through your blog post about <...> on the <...> blog. I am organizing
-> ConferenceCon, a conference all about the joy of having conferences. I will be moderating a panel on <...>. I think your
-> experience and point of view would be amazing to have on my panel. The conference will be happening $DATE at $VENUE, and
+> This is Eduardo Ariño de la Rubia, I heard about you through your blog post about <...> 
+> on the <...> blog. I am organizing
+> ConferenceCon, a conference all about the joy of having conferences. I will be moderating 
+> a panel on <...>. I think your
+> experience and point of view would be amazing to have on my panel. The conference will 
+> be happening $DATE at $VENUE, and
 > I would like to invite you to be a part of this by sharing your experiences on my panel.
 > 
-> Please let me know if you need any additional information, or if you think you may be able to make it! I really look forward
+> Please let me know if you need any additional information, or if you think you may be 
+> able to make it! I really look forward
 > to hearing from you. Thanks!
 >
 > Eduardo
@@ -234,5 +236,17 @@ you will end up using in the panel. Write these notes on the spreadsheet.
 
 ### Creating a Panel Goal and Topic Statement
 
-In a google doc, write down the goal statement for your panel. A goal is the "desired end state of the world."
+In a google doc, write down the goal statement for your panel. A goal is the "desired end state of the world." It is not a statement like "we are going to discuss <topic>" your goals statement should be something like "our audience will learn at least 5 useful things about WHATEVER they can take and implement in their business" or perhaps something like "the audience will hear how experts made these tought decisions and understand the tradeoffs they care about." It may sound cheesy to take the time to write a goal statement, but it's important to be able to really understand what you want to share with your audience, as it will really help in the next section.
+
+#### Creating a Candidate List of Questions
+
+How long is your panel? A good panel is about 40 minutes long. 30 for moderated discussion and 10 for questions from the audience. Your panel can be 60 minutes long, but honestly I think that is too long for the average panel, but it can be done. For the average panel, you're going to want to write a list of about 10 candidate questions, maybe 15. Writing questions is it's own challenging set of skills.
+
+You can start with generic lists of questions like [this](https://speakerhub.com/blog/21-insightful-questions-ask-when-moderating-your-next-panel-discussion-plus-some-great-tips) one. You can also listen to other panels that are in a related space and get some ideas. However, the very best questions will come from a diagnostic process. Think about the goal of your panel, think about the earlier themes that you synthesized when you were researching your panelists, and ask yourself what are the questions that you would have to ask that would get you to the very root of the discussion. Diagnostic questions that are "why" questions are really great, because they ask the panelist to tell us about how they came to a conclusion. 
+
+A lot of moderators think they need to come up with "gotcha" style questions or controversial questions. I think that's a bit of an overrated maneuver, but you should definitely have questions that ask both upside as well as downside. Asking about failure, asking about times where panelists were wrong or misled, asking about when panelists held a wrong position and what compelled them to learn, can be some of the best moments in a panel.
+
+Create a google doc with these 10 to 15 questions. Format it nicely, wordsmith them so that they're the very best version of themselves. If you happen to be friends with a great editor, having a second set of eyes at this phase can really make a difference.
+
+#### Having a Pre-Call with Your Panelists (either individually or as a conference call)
 
