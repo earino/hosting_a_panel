@@ -353,7 +353,9 @@ As you are wrapping things you, give your panelists an opportunity to say one la
 
 ### Get Feedback
 
-Reaching out to your panelists a few days later for feedback as to how the panel could have been better is a really useful thing. Once they've had a few days to think, they may be able to give you really great candid feedback about how the experience could have been better. The biggest predictor of running a panel is having run a previous panel. So now that you're probably going to run a second panel, it's time to get really great at it.
+Reaching out to your panelists a few days later for feedback as to how the panel could have been better is a really useful thing. Once they've had a few days to think, they may be able to give you really great candid feedback about how the experience could have been better. The biggest predictor of running a panel is having run a previous panel. So now that you're probably going to run a second panel, it's time to get really great at it. As a final thing, send one last thank you email, if there is a link to the recording, make sure to include it. This was a great shared experience, and being thankful makes it even more special.
+
+Mark that you sent thanks in the spreadsheet.
 
 ### Feeling Great 
 
