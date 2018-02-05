@@ -103,7 +103,7 @@ work and passion, give them time to leverage that hard work and passion towards 
 
 ### Creating the Candidate List of Panelists
 
-#### Diversity 
+#### Diversity and Represntation
 
 This is very important not to screw up. Your panel should have:
 
@@ -113,7 +113,7 @@ This is very important not to screw up. Your panel should have:
 Experts is pretty self explanitory. They should be able to contribute some non-trivial insight to the overall discussion. 
 But that's not the part where moderators and organizers screw up. They screw up on diversity.
 
-So, by diversity I explicitly mean your panel *must* have:
+So, by diversity and representation I explicitly mean your panel *must* have:
 
 1. Women
 2. People of color
