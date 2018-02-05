@@ -343,7 +343,11 @@ Not all panels have a Q&A afterwards. Maybe your venue isn't set up to take ques
 > will be a great part of this panel. So, now that the groundrules have been set, let's ask
 > some questions!
 
-It doesn't have to be word-for-word this speech, but you have to set the groundrules. An amazing panel can totally be turned sour if the audience Q&A is not moderated properly. Every time that someone asks a question, repeat it over the loudspeaker. It's important that everyone hears the question. Keep your eyes on the timekeeper and manage the clock well. Once you're in the last few minutes, tell the audience that you will take 2 more questions. Before you take the last question, tell the audience: "this is the last question."
+It doesn't have to be word-for-word this speech, but you have to set the groundrules. An amazing panel can totally be turned sour if the audience Q&A is not moderated properly. 
+
+After you  introduce the ground rules, try to make sure the first question is asked by someone who is not a white man. Ideally, a woman would ask the first question, because of all the diverse groups who might be in attendance, gender is probably the category easiest to hear through voice. Starting with a diverse voice [has been shown](https://arxiv.org/abs/1711.10985) to increase diversity throughout the Q&A session. It can be uncomfortable to prioritize this-- the person who put their hand up first is probably a man. Take a pause, feel free to pretend like the lights are in your eyes and you can't see for a second. 
+
+Every time that someone asks a question, repeat it over the loudspeaker. It's important that everyone hears the question. Keep your eyes on the timekeeper and manage the clock well. Once you're in the last few minutes, tell the audience that you will take 2 more questions. Before you take the last question, tell the audience: "this is the last question."
 
 ### Thanking your Panelists
 
