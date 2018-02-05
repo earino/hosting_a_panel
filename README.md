@@ -29,7 +29,7 @@ following sections. The rough outline (from the point of view of the organizer a
    8. Creating a panel goal and topic statement
    9. Creating a candidate list of questions
    10. Having a pre-call with your panelists (either individually or as a conference call)
-   11. Sharing with your panelists your list of candidate questions so they can be prepared
+   11. Sharing your list of candidate questions so they can be prepared
    12. Verifying that your panelists will be able to attend the panel
 2. At the event
    1. On the day of the panel, meeting before the panel to check that everyone feels comfortable with their participation
@@ -238,7 +238,7 @@ you will end up using in the panel. Write these notes on the spreadsheet.
 
 In a google doc, write down the goal statement for your panel. A goal is the "desired end state of the world." It is not a statement like "we are going to discuss <topic>" your goals statement should be something like "our audience will learn at least 5 useful things about WHATEVER they can take and implement in their business" or perhaps something like "the audience will hear how experts made these tought decisions and understand the tradeoffs they care about." It may sound cheesy to take the time to write a goal statement, but it's important to be able to really understand what you want to share with your audience, as it will really help in the next section.
 
-#### Creating a Candidate List of Questions
+### Creating a Candidate List of Questions
 
 How long is your panel? A good panel is about 40 minutes long. 30 for moderated discussion and 10 for questions from the audience. Your panel can be 60 minutes long, but honestly I think that is too long for the average panel, but it can be done. For the average panel, you're going to want to write a list of about 10 candidate questions, maybe 15. Writing questions is it's own challenging set of skills.
 
@@ -248,11 +248,11 @@ A lot of moderators think they need to come up with "gotcha" style questions or 
 
 Create a google doc with these 10 to 15 questions. Format it nicely, wordsmith them so that they're the very best version of themselves. If you happen to be friends with a great editor, having a second set of eyes at this phase can really make a difference.
 
-#### Having a Pre-Call with Your Panelists (either individually or as a conference call)
+### Having a Pre-Call with Your Panelists (either individually or as a conference call)
 
 It is critical to have a pre-call with your panelists. The goal of this call is to surface to them the candidate list of questions, get initial feedback from them on how they would like to shape the conversation, and to verify that the panelists are reasonable human beings who are going to be a compelling panel. It very rarely happens, but you may have a pre-call and find out that someone has been focused on something really differently, or that perhaps they just don't have any chemistry either with the moderator or any of the other panelists. In those rare circumstnaces where it's clear that the panelist is not a good match, the most humane thing to do is to have an honest conversation and figure out if it's fixable. No one wants to be on a panel where they're going to be uncomfortable.
 
-##### Scheduling the Call
+#### Scheduling the Call
 
 Email your panelists a calendar scheduling tool with a number of candidate times to have calls. I suggest using [doodle](http://doodle.com). This will allow people to give you an assortment of times where they can join a call. You want to have a good mix of times after and before work, as well as times on the weekend. It's very unlikely that you will be able to find a time where everyone can contribute. I suggest sending the link to doodle with a short email like this:
 
@@ -266,5 +266,36 @@ Once everyone has responded to the doodle, try to find a time where everyone can
 call at once. If it doesn't exist, then it's perfectly fine to schedule as many calls as it takes, but you really want to try to get as many panelists on the phone at the same time. That will give you the best feeling as to how the panel itself will run. Send everyone appropriate
 calendar invites, and add links to the events in the spreadsheet.
 
-##### Having the Call
+#### Having the Call
 
+This call is a pretty standard conference call. 
+
+1. Have everyone introduce themselves
+2. Thank them all for their willingness to do this panel
+3. Tell them the goals of the panel
+4. Discuss the candidate questions
+5. Note any feedback and followup
+
+The key to discussing the candidate questions is to have enough of a conversation where you can gauge which questions are going to make panelists engage, and which ones are not interesting to the panel. You really want to see if there's questions where the panelists both have different but reasonable positions. Those are great questions because they provide your audience with multiple points of view that may inform and educate.
+
+Make sure to ask your panelists for questions they wish you would have asked, or how they would modify the questions. Your panelists are literally experts in the field, that is why you asked them to be on the panel in the first place. You want them to feel like the questions are really compelling and that they can't wait to discuss them. If they do start discussing them amongst themselves, let it go for a minute or two, but prompty remind them to save it for the panel!
+
+Keep notes during this conversation, since you will be using what you learn during this conversation as your final editing pass for the candidate questions.
+
+### Sharing Your List of Candidate Questions
+
+After you have had your calls with your panelists, it's time to send them a followup email. In this email you want to thank them for their time on the call, remind them of the goals of the panel, and then share with them the edited list of candidate questions. I always like to remind the panelists in this email that this is not the exhaustive set of questions that you may ask, and you reserve the right to ask questions not on this list, but that likely you will focus on these.
+
+Mark that you followed up on your spreadsheet
+
+### Verifying that your panelists will be able to attend the panel
+
+A week or two before the panel is officially scheduled, send out one last email to your panelists verifying that they are still able to attend. This email should contain logistical information such as:
+
+1. What time the panel will be held
+2. What room it will be held in
+3. Any changes to the schedule
+4. Where you will be the day before and the day of if they need you
+5. Your phone number and how to reach you
+
+Sending a really good version of this email can make your panel feel very professional, and it will make your panelists cared about. They are experts, and receiving a thoughtful email with all the logistics questions they may have pre-answered will put them at ease that they're in good hands.
