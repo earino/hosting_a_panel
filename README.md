@@ -25,7 +25,7 @@ following sections. The rough outline (from the point of view of the organizer a
    4. Creating the candidate list of panelists
    5. Reaching out to the panelists and gauging their interest
    6. Getting confirmation from your panelists
-   7. Researching your panalists to find out what they're most qualified to speak to
+   7. Researching your panelists to find out what they're most qualified to speak to
    8. Creating a panel goal and topic statement
    9. Creating a candidate list of questions
    10. Having a pre-call with your panelists (either individually or as a conference call)
@@ -63,7 +63,7 @@ rewarding and the fruits of your efforts will be obvious to all involved.
 ### Deciding You Are Going to Host a Panel
 
 Why do you want to host a panel? What is it about the format that you feel will likely drive a more compelling narrative than
-presentations? Panels are great when you want to have a portfolio of different perspectives on stage simulatneously, and you
+presentations? Panels are great when you want to have a portfolio of different perspectives on stage simultaneously, and you
 feel confident that you can weave a narrative of interplay and give and take. You should decide to host a panel if there is
 some subjective questions that you think would be shaped by different experiences, or if there is some controversy in your 
 field that you want to surface from the position of multiple experts. At the root of it, you should run a panel when some
@@ -79,7 +79,7 @@ audience.
 
 For example:
 
-* 'Women in Technology' is too broad a theme, that will likely lead to generalized statements and plattitudes
+* 'Women in Technology' is too broad a theme, that will likely lead to generalized statements and platitudes
 * 'Recruiting and Retaining Women in Software Startups' is probably narrow enough to be interesting, but still allow interesting conversation
 
 Or for example:
@@ -103,14 +103,14 @@ work and passion, give them time to leverage that hard work and passion towards 
 
 ### Creating the Candidate List of Panelists
 
-#### Diversity and Represntation
+#### Diversity and Representation
 
 This is very important not to screw up. Your panel should have:
 
 1. Experts
 2. Diversity
 
-Experts is pretty self explanitory. They should be able to contribute some non-trivial insight to the overall discussion. 
+Experts is pretty self explanatory. They should be able to contribute some non-trivial insight to the overall discussion. 
 But that's not the part where moderators and organizers screw up. They screw up on diversity.
 
 So, by diversity and representation I explicitly mean your panel *must* have:
@@ -225,7 +225,7 @@ has agreed to be on your panel, they want it to be the very best panel it can be
 You to find out what they're most qualified to speak to specifically. Look at their LinkedIn page, look at their github page,
 but not just their projects, see if they contributed to any other projects or filed issues. Look at their social media and
 at previous talks they may have given. Search for them in Google scholar... basically be exhaustive. Look at their background
-speficically through the lens of the theme of the panel. The goals in researching your panelists are:
+specifically through the lens of the theme of the panel. The goals in researching your panelists are:
 
 1. Find out what these panelists are experts in
 2. Figure out where they have commonality and differences
@@ -237,7 +237,7 @@ you will end up using in the panel. Write these notes on the spreadsheet.
 
 ### Creating a Panel Goal and Topic Statement
 
-In a google doc, write down the goal statement for your panel. A goal is the "desired end state of the world." It is not a statement like "we are going to discuss <topic>" your goals statement should be something like "our audience will learn at least 5 useful things about WHATEVER they can take and implement in their business" or perhaps something like "the audience will hear how experts made these tought decisions and understand the tradeoffs they care about." It may sound cheesy to take the time to write a goal statement, but it's important to be able to really understand what you want to share with your audience, as it will really help in the next section.
+In a google doc, write down the goal statement for your panel. A goal is the "desired end state of the world." It is not a statement like "we are going to discuss <topic>" your goals statement should be something like "our audience will learn at least 5 useful things about WHATEVER they can take and implement in their business" or perhaps something like "the audience will hear how experts made these tough decisions and understand the tradeoffs they care about." It may sound cheesy to take the time to write a goal statement, but it's important to be able to really understand what you want to share with your audience, as it will really help in the next section.
 
 ### Creating a Candidate List of Questions
 
@@ -251,7 +251,7 @@ Create a google doc with these 10 to 15 questions. Format it nicely, wordsmith t
 
 ### Having a Pre-Call with Your Panelists (either individually or as a conference call)
 
-It is critical to have a pre-call with your panelists. The goal of this call is to surface to them the candidate list of questions, get initial feedback from them on how they would like to shape the conversation, and to verify that the panelists are reasonable human beings who are going to be a compelling panel. It very rarely happens, but you may have a pre-call and find out that someone has been focused on something really differently, or that perhaps they just don't have any chemistry either with the moderator or any of the other panelists. In those rare circumstnaces where it's clear that the panelist is not a good match, the most humane thing to do is to have an honest conversation and figure out if it's fixable. No one wants to be on a panel where they're going to be uncomfortable.
+It is critical to have a pre-call with your panelists. The goal of this call is to surface to them the candidate list of questions, get initial feedback from them on how they would like to shape the conversation, and to verify that the panelists are reasonable human beings who are going to be a compelling panel. It very rarely happens, but you may have a pre-call and find out that someone has been focused on something really differently, or that perhaps they just don't have any chemistry either with the moderator or any of the other panelists. In those rare circumstances where it's clear that the panelist is not a good match, the most humane thing to do is to have an honest conversation and figure out if it's fixable. No one wants to be on a panel where they're going to be uncomfortable.
 
 #### Scheduling the Call
 
@@ -260,7 +260,7 @@ Email your panelists a calendar scheduling tool with a number of candidate times
 > Hello $panelist!
 > 
 > I wanted to set up a quick 30 minute call to get panelists together on the phone, go over
-> some of the questions, and get everyones buy in on the direction of the panel. Click 
+> some of the questions, and get everyones' buy in on the direction of the panel. Click 
 > [here](http://doodle.com) to schedule on doodle! Thanks!
 
 Once everyone has responded to the doodle, try to find a time where everyone can join the
@@ -279,7 +279,7 @@ This call is a pretty standard conference call.
 
 The key to discussing the candidate questions is to have enough of a conversation where you can gauge which questions are going to make panelists engage, and which ones are not interesting to the panel. You really want to see if there's questions where the panelists both have different but reasonable positions. Those are great questions because they provide your audience with multiple points of view that may inform and educate.
 
-Make sure to ask your panelists for questions they wish you would have asked, or how they would modify the questions. Your panelists are literally experts in the field, that is why you asked them to be on the panel in the first place. You want them to feel like the questions are really compelling and that they can't wait to discuss them. If they do start discussing them amongst themselves, let it go for a minute or two, but prompty remind them to save it for the panel!
+Make sure to ask your panelists for questions they wish you would have asked, or how they would modify the questions. Your panelists are literally experts in the field, that is why you asked them to be on the panel in the first place. You want them to feel like the questions are really compelling and that they can't wait to discuss them. If they do start discussing them amongst themselves, let it go for a minute or two, but promptly remind them to save it for the panel!
 
 Keep notes during this conversation, since you will be using what you learn during this conversation as your final editing pass for the candidate questions.
 
@@ -323,9 +323,9 @@ Whether it's little bottles of water, or glasses and a pitcher, panelists should
 
 ### Introducing your Panelists and Actually Hosting and Moderating the Panel
 
-Once on stage, take the mic and and introduce yourself to the audience. Tell them in 15-30 seconds what the name of the panel is, and what you hope to accomplish. One by one, introduce your panelists. These introductions should be short but meaningful, convey why people want to pay attention to these folks. Then look in your notes, pick your first question, and moderate the panel.
+Once on stage, take the mic and introduce yourself to the audience. Tell them in 15-30 seconds what the name of the panel is, and what you hope to accomplish. One by one, introduce your panelists. These introductions should be short but meaningful, convey why people want to pay attention to these folks. Then look in your notes, pick your first question, and moderate the panel.
 
-I won't be too prescriptive as to what moderating a panel actually means (which, considering how nitpicky I was about everything else, may come as a surprise to you), but I believe every moderator has to come up with their own style. Your job as a moderator is to keep the conversation going. Make sure that everyone is getting a chance to answer, really listen to what your panelists are saying, and always make sure that you're asking the next most interesting question based on what your panelists are sying to each other. The order of your questions is much less important than the content, and matching it to what's happening in your panel in the moment. In special circumstances, an emergent question will become obvious to you and you will want to ad-lib and ask it. It's an advanced move, but if you come up with a brilliant question on the spot, go for it. Note that your panelists have never heard this question so it may surprise them, but that can make for an amazing opportunity.
+I won't be too prescriptive as to what moderating a panel actually means (which, considering how nitpicky I was about everything else, may come as a surprise to you), but I believe every moderator has to come up with their own style. Your job as a moderator is to keep the conversation going. Make sure that everyone is getting a chance to answer, really listen to what your panelists are saying, and always make sure that you're asking the next most interesting question based on what your panelists are saying to each other. The order of your questions is much less important than the content, and matching it to what's happening in your panel in the moment. In special circumstances, an emergent question will become obvious to you and you will want to ad-lib and ask it. It's an advanced move, but if you come up with a brilliant question on the spot, go for it. Note that your panelists have never heard this question so it may surprise them, but that can make for an amazing opportunity.
 
 Basically, do everything in your power to make the conversation as wonderful as possible, and work hard to steer it so address that goal you set out to solve so many months ago.
 
