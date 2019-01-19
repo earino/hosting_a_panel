@@ -368,3 +368,7 @@ Wow! You moderated a well run panel which was really valuable to the audience as
 ### Getting Bitten by the Bug and Planning Your Next Panel
 
 It happens to the best of us. See you at the next meeting of moderators anonymous :)
+
+## Finding This Guide
+
+I know this is goofy, but I am mostly adding this for myself. The URL for this guide is [https://earino.github.io/hosting_a_panel/](https://earino.github.io/hosting_a_panel/) :-)
